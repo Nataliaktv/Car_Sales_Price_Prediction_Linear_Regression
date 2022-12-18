@@ -1,0 +1,4 @@
+pandas == 1.5
+seaborn ==  0.12.1
+matplotlib == 3.5.0
+statsmodels.api == 0.13.5
